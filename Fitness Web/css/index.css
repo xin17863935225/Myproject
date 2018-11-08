@@ -1,0 +1,146 @@
+.login1{
+    position: absolute;
+    right: 310px;
+    color:#4F4F4F;
+    margin:5px;
+    list-style:none;
+    font-size: 20px;  
+    font-family : 微软雅黑,宋体;
+    text-decoration: none;
+}
+.login2{
+    position: absolute;
+    right: 370px;
+    color:#4F4F4F;
+    margin:5px;
+    list-style:none;
+    font-size: 20px;  
+    font-family : 微软雅黑,宋体;
+    text-decoration: none;
+}
+.login3{
+    position: absolute;
+    top:20px;
+    right: 310px;
+    color:#4F4F4F;
+    margin:5px;
+    list-style:none;
+    font-size: 20px;  
+    font-family : 微软雅黑,宋体;
+    text-decoration: none;
+}
+.login1:hover,.login2:hover,.login3:hover{
+    color: #FF8C00;
+}
+
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.m{
+	position: absolute;
+	right: 10px;
+	margin-top:5px;
+	width: 300px;
+}
+.plyr{	
+}
+img{
+	float: left;
+	width: 300px;
+}
+.subject{
+    margin-top: 20px;
+}
+.title{
+    font-family: "Microsoft YaHei", Arial, 瀹嬩綋, sans-serif;
+    display: block;
+    height: 28px;
+    line-height: 28px;
+    font-size: 30px;
+    color: #666;
+    margin: 0 auto;
+    width: 1200px;
+    height: 50px;
+    border-bottom: 2px solid #666;
+}
+.neirong{
+    margin: 0 auto;
+    width: 1200px;
+    height: 300px;
+}
+.top-t1{
+    font-family: "Microsoft YaHei", Arial, 瀹嬩綋, sans-serif;
+    font-size: 30px;
+    color: #00C0F3;
+    margin:250px; 
+}
+.top-t1:hover{
+    color: #CE0000;
+}
+a{
+    color:#4F4F4F;
+    list-style:none;
+    font-size: 29px;  
+    font-family : 微软雅黑,宋体;
+    text-decoration: none;
+}
+p:hover{
+    color: #CE0000;
+}
+.subject{
+    background-color: #F0F0F0;
+}
+li a{   
+	float: left;
+    width: 150px;
+    text-align: center;
+    list-style:none;
+	background-color: #4F4F4F;
+    height: 55px;
+    line-height: 55px;
+    font-weight: normal;
+    font-size: 20px;	
+	font-family : 微软雅黑,宋体;
+	color: white;
+}
+li a.shouye{
+	color: #fff;
+    line-height: 62px;
+    margin-top: -10px;
+    background: #d52f04;
+    height: 65px;
+		
+}
+li a:hover{ 
+	background-color:#FAEBD7;
+	color: #CE0000;
+}
+ul.biaoti1{
+	margin: 0px;
+    padding: 0px;
+	display: block;
+	list-style:none;
+	background-color: #4F4F4F;
+	margin-left:80px;
+	height:55px;
+}
+#logo1{
+	position: absolute;
+	left: 50px;
+	width: 170px;
+}
+#huachuan{
+    margin-top: 50px;
+}
+.header{
+	height: 175px;
+}
+.head-logo{
+	height: 125px;
+}
+.biaoti{
+	padding: 0px;
+	background: #4F4F4F;
+	height: 55px;
+}

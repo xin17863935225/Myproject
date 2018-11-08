@@ -1,0 +1,91 @@
+.login{
+    float: right;
+    color:#4F4F4F;
+    margin:10px;
+    list-style:none;
+    font-size: 20px;  
+    font-family : 微软雅黑,宋体;
+    text-decoration: none;
+}
+.login3{
+    position: absolute;
+    top:25px;
+    right: 5px;
+    color:#4F4F4F;
+    margin:5px;
+    list-style:none;
+    font-size: 20px;  
+    font-family : 微软雅黑,宋体;
+    text-decoration: none;
+}
+.login:hover,.login3:hover{
+    color: #FF8C00;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+li a{   
+    float: left;
+    width: 150px;
+    text-align: center;
+    list-style:none;
+    background-color: #4F4F4F;
+    height: 55px;
+    line-height: 55px;
+    font-weight: normal;
+    font-size: 20px;    
+    font-family :"Microsoft YaHei", Arial, "宋体", sans-serif;
+    color: white;
+    text-decoration: none;
+    text-transform:capitalize;
+}
+li a.shouye{
+    color: #fff;
+    line-height: 62px;
+    margin-top: -10px;
+    background: #d52f04;
+    height: 65px;
+        
+}
+li a:hover{ 
+    background-color:#FAEBD7;
+    color: #CE0000;
+}
+.qixie{
+    background-color:#FAEBD7;
+    color: #CE0000;
+}
+
+ul.biaoti1{
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    list-style:none;
+    background-color: #4F4F4F;
+    margin-left:80px;
+    height:55px;
+}
+#logo1{
+    position: absolute;
+    left: 50px;
+    width: 170px;
+}
+.header{
+    height: 300px;
+}
+.head-logo{
+    height: 125px;
+}
+.biaoti{
+    padding: 0px;
+    background: #4F4F4F;
+    height: 55px;
+}
+.head-logo3{
+    height: 120px;
+    background-color:#E0E0E0;
+    background-repeat:repeat-x;
+    margin:0px;
+    text-align: center;
+}

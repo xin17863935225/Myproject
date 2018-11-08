@@ -1,0 +1,50 @@
+
+    body{
+		margin:0;
+		
+		}
+	form{
+		width:600px;
+		margin:50px auto;
+		font-family:微软雅黑;
+		}
+	table{
+		background-color:#0CF
+		opacity:0.5;filter:alpha(opacity=50);
+		width:100%;
+		border-spacing:20px;
+		}
+	caption{
+		font-size: 25px;
+		font-weight:bold;
+		margin-bottom:20px;
+	    }
+	
+	input[type="text"],input[type="password"]{
+		width:260px;
+		height:30px;
+		background-color:#CFC;
+		border-radius:10px;
+		}
+	input[type="submit"]{
+		background-color:#0C9;
+		width:260px;
+		height:50px;
+		border-radius:10px;
+		font-size:20px;
+		color:white;
+		}
+	.col1{
+		text-align: right;
+		}
+	.col3{
+		text-align: left;
+		}
+	span{
+		color:red;
+		font-size:14px;
+		}
+	#img2{
+		float:right;
+		}
+

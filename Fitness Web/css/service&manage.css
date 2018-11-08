@@ -1,0 +1,227 @@
+.login {
+	float: right;
+	color: #4F4F4F;
+	margin: 10px;
+	list-style: none;
+	font-size: 20px;
+	font-family: 微软雅黑, 宋体;
+	text-decoration: none;
+}
+
+.login3 {
+	position: absolute;
+	top: 25px;
+	right: 5px;
+	color: #4F4F4F;
+	margin: 5px;
+	list-style: none;
+	font-size: 20px;
+	font-family: 微软雅黑, 宋体;
+	text-decoration: none;
+}
+
+.login:hover,
+.login3:hover {
+	color: #FF8C00;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+li a {
+	float: left;
+	width: 150px;
+	text-align: center;
+	list-style: none;
+	background-color: #4F4F4F;
+	height: 55px;
+	line-height: 55px;
+	font-weight: normal;
+	font-size: 20px;
+	font-family: "Microsoft YaHei", Arial, "宋体", sans-serif;
+	color: white;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+
+li a.shouye {
+	color: #fff;
+	line-height: 62px;
+	margin-top: -10px;
+	background: #d52f04;
+	height: 65px;
+}
+
+li a:hover {
+	background-color: #FAEBD7;
+	color: #CE0000;
+}
+
+.manage,
+.service {
+	background-color: #FAEBD7;
+	color: #CE0000;
+}
+
+ul.biaoti1 {
+	margin: 0px;
+	padding: 0px;
+	display: block;
+	list-style: none;
+	background-color: #4F4F4F;
+	margin-left: 80px;
+	height: 55px;
+}
+
+#logo1 {
+	position: absolute;
+	left: 50px;
+	width: 170px;
+}
+
+.header {
+	height: 300px;
+}
+
+.head-logo {
+	height: 125px;
+}
+
+.biaoti {
+	padding: 0px;
+	background: #4F4F4F;
+	height: 55px;
+}
+
+.head-logo3 {
+	height: 120px;
+	background-color: #E0E0E0;
+	background-repeat: repeat-x;
+	margin: 0px;
+	text-align: center;
+}
+
+.form1 {
+	padding: 0;
+	width: 600px;
+	height: 100px;
+}
+
+.form2 {
+	padding: 0;
+	width: 450px;
+	height: 100px;
+}
+
+.form3 {
+	padding: 0;
+	width: 450px;
+	height: 100px;
+}
+
+form {
+	margin: 50px auto;
+	font-family: 微软雅黑;
+}
+
+.table1{
+	overflow:hidden;
+	border: 0px solid white;
+	width:100%;
+	-moz-border-radius:5px; /* FF1+ */
+	-webkit-border-radius:5px; /* Saf3-4 */
+	border-radius:5px;
+	-moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+th, td {padding:10px 28px 10px; text-align:center; }
+	
+th {
+    font-size: 30px;
+    text-align: left;
+	color: #d52f04;
+	padding-top:22px;
+	text-shadow: 1px 1px 1px #fff; 
+	background:#e8eaeb;
+}
+	
+.table1 td { 
+	font-family : 微软雅黑,宋体;
+    text-align: left;
+    font-size: 20px;
+    border-top:1px solid #e0e0e0;
+    border-right:1px solid #e0e0e0;
+}
+
+caption {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.col1 {
+	text-align: right;
+	font-family : 微软雅黑,宋体;
+    font-size: 20px;
+	border-top:0;
+    border-right:0;
+}
+
+.col3 {
+	text-align: left;
+	font-family : 微软雅黑,宋体;
+    font-size: 20px;
+	border-top:0;
+    border-right:0;
+}
+
+input[type="text"],
+input[type="password"] {
+	width: 150px;
+	height: 30px;
+	background-color: #DBE3E8;
+	border-radius: 10px;
+	font-size: 17px;
+	font-family: 微软雅黑, 宋体;
+}
+input[type="file"]{
+	list-style: none;
+	font-size: 20px;
+	font-family: 微软雅黑, 宋体;
+	border-radius: 20px;
+}
+input[type="radio"] {
+	border-radius: 10px;
+}
+
+input[type="submit"] {
+	background-color: #565D64;
+	width: 150px;
+	height: 30px;
+	border-radius: 10px;
+	font-size: 20px;
+	color: white;
+	/*border:none;*/
+}
+span {
+	color: red;
+	font-size: 15px;
+}
+select{
+	margin: 10px;
+	list-style: none;
+	font-size: 20px;
+	font-family: 微软雅黑, 宋体;
+	border-radius: 10px;
+}
+.outfile {
+	color: #990000;
+	margin: 10px;
+	list-style: none;
+	font-size: 30px;
+	font-family: 微软雅黑, 宋体;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+
